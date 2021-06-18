@@ -3,7 +3,7 @@ for example: waiting for players to join and cpu point limiter :P
 
 Credits to TheAdminHammer (On youtube) and someone else in the FreeMC community for finding this bug/loophole
 
-======================================
+-----------------------------------------
 Usage:
 Open 2 tabs of https://panel.freemc.host and go to your server (both tabs)
 The first tab: You would want to open just the terminal/console
@@ -17,6 +17,6 @@ after pressing "Start" IMMEDIATELY go to the second tab and continue to spam the
 after around 5 seconds go to the first tab and check if theres a change to the Starting/Booting process of your server! :D
 If there is then well done!
 If there is no change then restart everything lmao
-======================================
+-----------------------------------------
 
 Don't do this often or there is a chance that you will get banned :P
